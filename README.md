@@ -1,6 +1,6 @@
 # nugui
 
-MVT Rasterization
+PmTiles Rasterization
 
 I think the JSX vector tile renderers need:
 
